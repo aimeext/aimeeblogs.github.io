@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+How I got started
+Got to know Gabryel Soh, cs junior as of 2025
+Inspired to host a blog on github
+I'm a business graduate so idk much about cs
+Learning as I go, start date June 19, 2025
